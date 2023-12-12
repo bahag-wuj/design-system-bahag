@@ -11,8 +11,8 @@
     "release": "turbo run build && changeset publish"
   },
   "devDependencies": {
-    "@repo/eslint-config": "*",
-    "@repo/typescript-config": "*",
+    "@bahag-wuj/eslint-config": "*",
+    "@bahag-wuj/typescript-config": "*",
     "prettier": "^3.1.0",
     "turbo": "latest",
     "@changesets/cli": "^2.27.1"
