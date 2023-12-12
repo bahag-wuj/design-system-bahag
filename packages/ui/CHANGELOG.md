@@ -4,6 +4,12 @@
 
 ### Patch Changes
 
+- 8badd39: update ui
+
+## 0.0.1
+
+### Patch Changes
+
 - b7dd0f0: update ui
 
 ## 0.0.1
