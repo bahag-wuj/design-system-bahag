@@ -1,4 +1,4 @@
-# @repo/ui
+# @bahag-wuj/ui
 
 ## 0.0.1
 
