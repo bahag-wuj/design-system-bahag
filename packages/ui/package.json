@@ -1,6 +1,6 @@
 {
-  "name": "@repo/ui",
-  "version": "0.0.1",
+  "name": "@bahag-wuj/ui",
+  "version": "0.0.0",
   "private": false,
   "exports": {
     "./button": "./src/button.tsx",
